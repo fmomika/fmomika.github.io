@@ -89,4 +89,9 @@ body.dark-mode .btn-outline-secondary:hover {
   transition: filter 0.3s ease;
 }
 
+.card:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
 
